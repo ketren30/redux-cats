@@ -30,7 +30,7 @@ export function fetchData () {
     return async dispatch => {
         try {
             dispatch(showLoader())
-            const response = await fetch('https://raw.githubusercontent.com/ketren30/cats/main/cats.json')
+            const response = await fetch('https://raw.githubusercontent.com/ketren30/redux-cats/main/cats.json')
             const json = await response.json()
             setTimeout(()=> {
                 dispatch({type: "fetchData", payload: json})
