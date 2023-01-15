@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/redux-cats/static/css/main.7a56ba8a.css",
+    "main.js": "/github.io/redux-cats/static/js/main.c9b64a0c.js",
+    "index.html": "/github.io/redux-cats/index.html",
+    "main.7a56ba8a.css.map": "/github.io/redux-cats/static/css/main.7a56ba8a.css.map",
+    "main.c9b64a0c.js.map": "/github.io/redux-cats/static/js/main.c9b64a0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a56ba8a.css",
+    "static/js/main.c9b64a0c.js"
+  ]
+}
