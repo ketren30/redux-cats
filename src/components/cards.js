@@ -8,7 +8,7 @@ export const Cards = () => {
 
     if (filtr==="1") return (
         <div>
-            {cats.forEach((item) => {
+            {cats.map((item) => {
                 if (!item.isdeleted) return <Card key={item.breed} cat={item}/>   
             })}
         </div>
@@ -16,7 +16,7 @@ export const Cards = () => {
     
     if (filtr==="2") return (
         <div>
-            {cats.forEach((item) => {
+            {cats.map((item) => {
                 if (item.isliked && !item.isdeleted) return <Card key={item.breed} cat={item} />   
             })}
         </div>

@@ -30,12 +30,9 @@ export function fetchData () {
     return async dispatch => {
         try {
             dispatch(showLoader())
-            const response = await fetch('https://api.jsonbin.io/v3/b/63ca6db801a72b59f24f6941', {
-              headers: {
-                'X-MASTER-KEY': '$2b$10$oxBixTfm91bCooJQkMVgqe2pAnvfRW3.CENARse2lulF/f3HZB7gq'
-              }
-            })
-            const json = await response.json()
+            const response = await fetch('https://api.jsonbin.io/v3/b/63ca801e15ab31599e3b2c14')
+            const json = await response.json();
+            console.log(json.record)
             setTimeout(()=> {
                 dispatch({type: "fetchData", payload: json.record})
                 dispatch(hideLoader())
