@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/github.io/redux-cats/static/css/main.7a56ba8a.css",
-    "main.js": "/github.io/redux-cats/static/js/main.7d2505a9.js",
-    "static/js/594.a5c655d5.chunk.js": "/github.io/redux-cats/static/js/594.a5c655d5.chunk.js",
-    "static/js/582.67e759fa.chunk.js": "/github.io/redux-cats/static/js/582.67e759fa.chunk.js",
-    "static/js/248.72454223.chunk.js": "/github.io/redux-cats/static/js/248.72454223.chunk.js",
-    "static/js/735.2069ba28.chunk.js": "/github.io/redux-cats/static/js/735.2069ba28.chunk.js",
-    "static/js/56.8955ca16.chunk.js": "/github.io/redux-cats/static/js/56.8955ca16.chunk.js",
-    "static/media/nolike.jpg": "/github.io/redux-cats/static/media/nolike.d1764bbfbca0f930c5fe.jpg",
-    "static/media/like.jpg": "/github.io/redux-cats/static/media/like.900b5320e5808343c076.jpg",
-    "static/media/amerikanskaya-dlinnosherstnaya-koshka.jpg": "/github.io/redux-cats/static/media/amerikanskaya-dlinnosherstnaya-koshka.f7847a0ae5e27a829d53.jpg",
-    "static/media/aziatskaya-tabbi.jpg": "/github.io/redux-cats/static/media/aziatskaya-tabbi.1ebe85c0b7428c954234.jpg",
-    "static/media/abissinskaya-koshka.jpg": "/github.io/redux-cats/static/media/abissinskaya-koshka.301140373766e1300ef1.jpg",
-    "static/media/avstraliyskaya-dymchataya.jpg": "/github.io/redux-cats/static/media/avstraliyskaya-dymchataya.cf0943e5ee773f85bbdf.jpg",
-    "static/media/amerikanskaya-zhestkosherstnaya.jpg": "/github.io/redux-cats/static/media/amerikanskaya-zhestkosherstnaya.234c07632ce9d331de5a.jpg",
-    "index.html": "/github.io/redux-cats/index.html",
-    "main.7a56ba8a.css.map": "/github.io/redux-cats/static/css/main.7a56ba8a.css.map",
-    "main.7d2505a9.js.map": "/github.io/redux-cats/static/js/main.7d2505a9.js.map"
+    "main.css": "/redux-cats/static/css/main.7a56ba8a.css",
+    "main.js": "/redux-cats/static/js/main.42791791.js",
+    "static/js/594.a5c655d5.chunk.js": "/redux-cats/static/js/594.a5c655d5.chunk.js",
+    "static/js/582.67e759fa.chunk.js": "/redux-cats/static/js/582.67e759fa.chunk.js",
+    "static/js/248.72454223.chunk.js": "/redux-cats/static/js/248.72454223.chunk.js",
+    "static/js/735.2069ba28.chunk.js": "/redux-cats/static/js/735.2069ba28.chunk.js",
+    "static/js/56.8955ca16.chunk.js": "/redux-cats/static/js/56.8955ca16.chunk.js",
+    "static/media/nolike.jpg": "/redux-cats/static/media/nolike.d1764bbfbca0f930c5fe.jpg",
+    "static/media/like.jpg": "/redux-cats/static/media/like.900b5320e5808343c076.jpg",
+    "static/media/amerikanskaya-dlinnosherstnaya-koshka.jpg": "/redux-cats/static/media/amerikanskaya-dlinnosherstnaya-koshka.f7847a0ae5e27a829d53.jpg",
+    "static/media/aziatskaya-tabbi.jpg": "/redux-cats/static/media/aziatskaya-tabbi.1ebe85c0b7428c954234.jpg",
+    "static/media/abissinskaya-koshka.jpg": "/redux-cats/static/media/abissinskaya-koshka.301140373766e1300ef1.jpg",
+    "static/media/avstraliyskaya-dymchataya.jpg": "/redux-cats/static/media/avstraliyskaya-dymchataya.cf0943e5ee773f85bbdf.jpg",
+    "static/media/amerikanskaya-zhestkosherstnaya.jpg": "/redux-cats/static/media/amerikanskaya-zhestkosherstnaya.234c07632ce9d331de5a.jpg",
+    "index.html": "/redux-cats/index.html",
+    "main.7a56ba8a.css.map": "/redux-cats/static/css/main.7a56ba8a.css.map",
+    "main.42791791.js.map": "/redux-cats/static/js/main.42791791.js.map"
   },
   "entrypoints": [
     "static/css/main.7a56ba8a.css",
-    "static/js/main.7d2505a9.js"
+    "static/js/main.42791791.js"
   ]
 }
