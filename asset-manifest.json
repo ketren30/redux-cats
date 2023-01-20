@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/redux-cats/static/css/main.7a56ba8a.css",
-    "main.js": "/redux-cats/static/js/main.2184077d.js",
+    "main.js": "/redux-cats/static/js/main.3e77895d.js",
     "static/js/594.a5c655d5.chunk.js": "/redux-cats/static/js/594.a5c655d5.chunk.js",
     "static/js/582.67e759fa.chunk.js": "/redux-cats/static/js/582.67e759fa.chunk.js",
     "static/js/248.72454223.chunk.js": "/redux-cats/static/js/248.72454223.chunk.js",
@@ -16,10 +16,10 @@
     "static/media/amerikanskaya-zhestkosherstnaya.jpg": "/redux-cats/static/media/amerikanskaya-zhestkosherstnaya.234c07632ce9d331de5a.jpg",
     "index.html": "/redux-cats/index.html",
     "main.7a56ba8a.css.map": "/redux-cats/static/css/main.7a56ba8a.css.map",
-    "main.2184077d.js.map": "/redux-cats/static/js/main.2184077d.js.map"
+    "main.3e77895d.js.map": "/redux-cats/static/js/main.3e77895d.js.map"
   },
   "entrypoints": [
     "static/css/main.7a56ba8a.css",
-    "static/js/main.2184077d.js"
+    "static/js/main.3e77895d.js"
   ]
 }
