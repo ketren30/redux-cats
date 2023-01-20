@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkredux_cats=self.webpackChunkredux_cats||[]).push([[735],{735:function(a,e,s){a.exports=s.p+"static/media/avstraliyskaya-dymchataya.cf0943e5ee773f85bbdf.jpg"}}]);

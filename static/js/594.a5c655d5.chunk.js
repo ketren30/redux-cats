@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkredux_cats=self.webpackChunkredux_cats||[]).push([[594],{594:function(s,e,a){s.exports=a.p+"static/media/abissinskaya-koshka.301140373766e1300ef1.jpg"}}]);

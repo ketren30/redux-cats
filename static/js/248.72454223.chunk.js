@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkredux_cats=self.webpackChunkredux_cats||[]).push([[248],{290:function(e,a,s){e.exports=s.p+"static/media/amerikanskaya-zhestkosherstnaya.234c07632ce9d331de5a.jpg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkredux_cats=self.webpackChunkredux_cats||[]).push([[582],{582:function(a,e,s){a.exports=s.p+"static/media/amerikanskaya-dlinnosherstnaya-koshka.f7847a0ae5e27a829d53.jpg"}}]);
